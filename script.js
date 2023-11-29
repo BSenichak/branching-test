@@ -14,9 +14,9 @@ xhr.onload = function () {
         pElem.classList.add("product");
         pElem.innerHTML = `
             <img class='product-photo' src='${p.imgUrl}' alt='${p.name}'>
-            <h2 class='product-name'>${p.name}</h2>
+            <h2 class='product-name'>${p.name}</h2><br>
             <p class='product-description'><b>Description: </b>${p.description}</p>
-            <a href='userProfile.html?id=${p.author_id}'>Seller profile</a>
+            <a href='profile/profile.html?id=${p.author_id}'>Seller profile</a>
             <div class="price-bar">
                 <p class='product-price'>${p.price}$</p>
                 <button onclick="addProductToCart(${p.id})"><i class="fa-solid fa-basket-shopping"></i></button>

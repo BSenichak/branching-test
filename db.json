@@ -2,7 +2,7 @@
     "products": [
         {
           "name": "Arduino Uno",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "24.95",
           "description": "The Arduino Uno is a microcontroller board based on the ATmega328P.",
           "author_id": "1",
@@ -10,7 +10,7 @@
         },
         {
           "name": "Arduino Mega",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "38.95",
           "description": "The Arduino Mega 2560 is a microcontroller board based on the ATmega2560.",
           "author_id": "1",
@@ -18,7 +18,7 @@
         },
         {
           "name": "Arduino Nano",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "19.95",
           "description": "The Arduino Nano is a small, complete, and breadboard-friendly board based on the ATmega328P.",
           "author_id": "1",
@@ -26,7 +26,7 @@
         },
         {
           "name": "Arduino Due",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "49.95",
           "description": "The Arduino Due is a microcontroller board based on the Atmel SAM3X8E.",
           "author_id": "1",
@@ -34,7 +34,7 @@
         },
         {
           "name": "Arduino Pro Mini",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "9.95",
           "description": "The Arduino Pro Mini is a microcontroller board based on the ATmega328P.",
           "author_id": "2",
@@ -42,7 +42,7 @@
         },
         {
           "name": "Arduino Leonardo",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "22.95",
           "description": "The Arduino Leonardo is a microcontroller board based on the ATmega32u4.",
           "author_id": "2",
@@ -50,7 +50,7 @@
         },
         {
           "name": "Arduino Nano Every",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "8.95",
           "description": "The Arduino Nano Every is a small, robust, and powerful board with the same classic Nano footprint.",
           "author_id": "2",
@@ -58,7 +58,7 @@
         },
         {
           "name": "Arduino MKR WiFi 1010",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "34.95",
           "description": "The Arduino MKR WiFi 1010 is the easiest point of entry to basic IoT and pico-network application development.",
           "author_id": "2",
@@ -66,7 +66,7 @@
         },
         {
           "name": "Arduino MKR Vidor 4000",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "59.95",
           "description": "The Arduino MKR Vidor 4000 is highly configurable and powerful, and it can perform high-speed digital audio and video processing.",
           "author_id": "3",
@@ -74,7 +74,7 @@
         },
         {
           "name": "Arduino Nano 33 BLE",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "18.95",
           "description": "The Arduino Nano 33 BLE is a compact board based on the NINA B306 module.",
           "author_id": "3",
@@ -82,7 +82,7 @@
         },
         {
           "name": "Arduino Nano 33 IoT",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "19.95",
           "description": "The Arduino Nano 33 IoT is the easiest and cheapest point of entry to enhance existing devices.",
           "author_id": "3",
@@ -90,7 +90,7 @@
         },
         {
           "name": "Arduino MKR Zero",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "27.95",
           "description": "The Arduino MKR Zero is a compact board that is based on the Atmel SAMD21 and integrated with the ECC508 CryptoAuthentication chip.",
           "author_id": "4",
@@ -98,7 +98,7 @@
         },
         {
           "name": "Arduino MKR GSM 1400",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "49.95",
           "description": "The Arduino MKR GSM 1400 is a powerful board that combines the functionality of the Zero and global GSM connectivity.",
           "author_id": "4",
@@ -106,7 +106,7 @@
         },
         {
           "name": "Arduino MKR WAN 1300",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "39.95",
           "description": "The Arduino MKR WAN 1300 is a powerful board that combines the functionality of the MKR Zero and LoRa connectivity.",
           "author_id": "4",
@@ -114,7 +114,7 @@
         },
         {
           "name": "Arduino MKR NB 1500",
-          "imgUrl": "img/product.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/BSenichak/branching-test/main/img/product.jpg",
           "price": "69.95",
           "description": "The Arduino MKR NB 1500 is a powerful board that combines the functionality of the Zero and global 3G connectivity.",
           "author_id": "4",
