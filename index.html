@@ -2,17 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>RoboShop</title>
     <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.css' integrity='sha512-imTMcrMfwTWMwbgH3ComWWGCoDCo2jO1Qrvoa7B/Kcy7MrP5XMojK/Ede5uYofzcYyx4aFXdwzsm1QxdQXZreg==' crossorigin='anonymous'/>
 </head>
 <body>
-    <h1>Hello world!</h1>
-    <h3>One more tag</h3>
-    <p>try back in history</p>
-    <h2>It's me!</h2>
-    <h4>some text</h4>
-    <h5>tags can't be too much</h5>
-    
+    <header>
+        <h1>RoboShop</h1>
+        <div id="cart">
+            <button id="cart-button" onclick="openCart()">
+                <i class="fa-solid fa-cart-shopping"></i>
+            </button>
+            <div id="cart-products" class="hide">
+                Cart is empty
+            </div>
+        </div>
+    </header>
+    <main>
+        <div id="products-grid">
+            
+        </div>
+    </main>
 </body>
 </html>

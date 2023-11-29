@@ -1,124 +1,164 @@
 {
     "products": [
         {
-            "name": "Arduino Uno",
-            "description": "A beginner-friendly microcontroller board",
-            "price": "$24.95",
-            "imgUrl": "https://example.com/arduino_uno.jpg"
+          "name": "Arduino Uno",
+          "imgUrl": "img/uno.jpg",
+          "price": "24.95",
+          "description": "The Arduino Uno is a microcontroller board based on the ATmega328P.",
+          "author_id": "12345",
+          "id": "1"
         },
         {
-            "name": "Arduino Mega",
-            "description": "A powerful microcontroller board with more I/O pins",
-            "price": "$39.95",
-            "imgUrl": "https://example.com/arduino_mega.jpg"
+          "name": "Arduino Mega",
+          "imgUrl": "img/mega.jpg",
+          "price": "38.95",
+          "description": "The Arduino Mega 2560 is a microcontroller board based on the ATmega2560.",
+          "author_id": "23456",
+          "id": "2"
         },
         {
-            "name": "Arduino Nano",
-            "description": "A small and compact microcontroller board",
-            "price": "$22.00",
-            "imgUrl": "https://example.com/arduino_nano.jpg"
+          "name": "Arduino Nano",
+          "imgUrl": "img/nano.jpg",
+          "price": "19.95",
+          "description": "The Arduino Nano is a small, complete, and breadboard-friendly board based on the ATmega328P.",
+          "author_id": "34567",
+          "id": "3"
         },
         {
-            "name": "Arduino Pro Mini",
-            "description": "A minimalistic microcontroller board for advanced users",
-            "price": "$9.95",
-            "imgUrl": "https://example.com/arduino_pro_mini.jpg"
+          "name": "Arduino Due",
+          "imgUrl": "img/due.jpg",
+          "price": "49.95",
+          "description": "The Arduino Due is a microcontroller board based on the Atmel SAM3X8E.",
+          "author_id": "45678",
+          "id": "4"
         },
         {
-            "name": "Arduino Leonardo",
-            "description": "A microcontroller board with built-in USB communication",
-            "price": "$19.95",
-            "imgUrl": "https://example.com/arduino_leonardo.jpg"
+          "name": "Arduino Pro Mini",
+          "imgUrl": "img/pro-mini.jpg",
+          "price": "9.95",
+          "description": "The Arduino Pro Mini is a microcontroller board based on the ATmega328P.",
+          "author_id": "56789",
+          "id": "5"
         },
         {
-            "name": "Arduino Due",
-            "description": "A microcontroller board based on the ARM Cortex-M3 processor",
-            "price": "$34.99",
-            "imgUrl": "https://example.com/arduino_due.jpg"
+          "name": "Arduino Leonardo",
+          "imgUrl": "img/leonardo.jpg",
+          "price": "22.95",
+          "description": "The Arduino Leonardo is a microcontroller board based on the ATmega32u4.",
+          "author_id": "67890",
+          "id": "6"
         },
         {
-            "name": "Arduino MKR1000",
-            "description": "A microcontroller board with built-in WiFi connectivity",
-            "price": "$34.00",
-            "imgUrl": "https://example.com/arduino_mkr1000.jpg"
+          "name": "Arduino Nano Every",
+          "imgUrl": "img/nano-every.jpg",
+          "price": "8.95",
+          "description": "The Arduino Nano Every is a small, robust, and powerful board with the same classic Nano footprint.",
+          "author_id": "78901",
+          "id": "7"
         },
         {
-            "name": "Arduino Nano 33 BLE",
-            "description": "A microcontroller board with Bluetooth Low Energy support",
-            "price": "$19.50",
-            "imgUrl": "https://example.com/arduino_nano33_ble.jpg"
+          "name": "Arduino MKR WiFi 1010",
+          "imgUrl": "img/mkr-wifi-1010.jpg",
+          "price": "34.95",
+          "description": "The Arduino MKR WiFi 1010 is the easiest point of entry to basic IoT and pico-network application development.",
+          "author_id": "89012",
+          "id": "8"
         },
         {
-            "name": "Arduino Nano 33 IoT",
-            "description": "A microcontroller board with WiFi and Bluetooth connectivity",
-            "price": "$18.00",
-            "imgUrl": "https://example.com/arduino_nano33_iot.jpg"
+          "name": "Arduino MKR Vidor 4000",
+          "imgUrl": "img/mkr-vidor-4000.jpg",
+          "price": "59.95",
+          "description": "The Arduino MKR Vidor 4000 is highly configurable and powerful, and it can perform high-speed digital audio and video processing.",
+          "author_id": "90123",
+          "id": "9"
         },
         {
-            "name": "Arduino MKR Zero",
-            "description": "A microcontroller board based on the SAMD21G18A processor",
-            "price": "$22.00",
-            "imgUrl": "https://example.com/arduino_mkr_zero.jpg"
+          "name": "Arduino Nano 33 BLE",
+          "imgUrl": "img/nano-33-ble.jpg",
+          "price": "18.95",
+          "description": "The Arduino Nano 33 BLE is a compact board based on the NINA B306 module.",
+          "author_id": "01234",
+          "id": "10"
         },
         {
-            "name": "Arduino MKR Vidor 4000",
-            "description": "A microcontroller board with an FPGA chip for enhanced functionality",
-            "price": "$59.90",
-            "imgUrl": "https://example.com/arduino_mkr_vidor_4000.jpg"
+          "name": "Arduino Nano 33 IoT",
+          "imgUrl": "img/nano-33-iot.jpg",
+          "price": "19.95",
+          "description": "The Arduino Nano 33 IoT is the easiest and cheapest point of entry to enhance existing devices.",
+          "author_id": "12345",
+          "id": "11"
         },
         {
-            "name": "Arduino Nano Every",
-            "description": "A microcontroller board based on the ATmega4809 processor",
-            "price": "$9.90",
-            "imgUrl": "https://example.com/arduino_nano_every.jpg"
+          "name": "Arduino MKR Zero",
+          "imgUrl": "img/mkr-zero.jpg",
+          "price": "27.95",
+          "description": "The Arduino MKR Zero is a compact board that is based on the Atmel SAMD21 and integrated with the ECC508 CryptoAuthentication chip.",
+          "author_id": "23456",
+          "id": "12"
         },
         {
-            "name": "Arduino Nano 33 BLE Sense",
-            "description": "A microcontroller board with multiple built-in sensors",
-            "price": "$29.50",
-            "imgUrl": "https://example.com/arduino_nano33_ble_sense.jpg"
+          "name": "Arduino MKR GSM 1400",
+          "imgUrl": "img/mkr-gsm-1400.jpg",
+          "price": "49.95",
+          "description": "The Arduino MKR GSM 1400 is a powerful board that combines the functionality of the Zero and global GSM connectivity.",
+          "author_id": "34567",
+          "id": "13"
         },
         {
-            "name": "Arduino MKR WiFi 1010",
-            "description": "A microcontroller board with WiFi connectivity and low power consumption",
-            "price": "$34.00",
-            "imgUrl": "https://example.com/arduino_mkr_wifi_1010.jpg"
+          "name": "Arduino MKR WAN 1300",
+          "imgUrl": "img/mkr-wan-1300.jpg",
+          "price": "39.95",
+          "description": "The Arduino MKR WAN 1300 is a powerful board that combines the functionality of the MKR Zero and LoRa connectivity.",
+          "author_id": "45678",
+          "id": "14"
         },
         {
-            "name": "Arduino MKR GSM 1400",
-            "description": "A microcontroller board with GSM connectivity for IoT applications",
-            "price": "$69.00",
-            "imgUrl": "https://example.com/arduino_mkr_gsm_1400.jpg"
+          "name": "Arduino MKR NB 1500",
+          "imgUrl": "img/mkr-nb-1500.jpg",
+          "price": "69.95",
+          "description": "The Arduino MKR NB 1500 is a powerful board that combines the functionality of the Zero and global 3G connectivity.",
+          "author_id": "56789",
+          "id": "15"
         },
         {
-            "name": "Arduino MKR NB 1500",
-            "description": "A microcontroller board with NB-IoT and LTE-M connectivity",
-            "price": "$69.00",
-            "imgUrl": "https://example.com/arduino_mkr_nb_1500.jpg"
+          "name": "Arduino MKR 1000",
+          "imgUrl": "img/mkr-1000.jpg",
+          "price": "34.95",
+          "description": "The Arduino MKR 1000 is a powerful board that combines the functionality of the Zero and Wi-Fi connectivity.",
+          "author_id": "67890",
+          "id": "16"
         },
         {
-            "name": "Arduino MKR WAN 1300",
-            "description": "A microcontroller board with LoRa connectivity for long-range communication",
-            "price": "$39.90",
-            "imgUrl": "https://example.com/arduino_mkr_wan_1300.jpg"
+          "name": "Arduino MKR FOX 1200",
+          "imgUrl": "img/mkr-fox-1200.jpg",
+          "price": "39.95",
+          "description": "The Arduino MKR FOX 1200 is a powerful board that combines the functionality of the Zero and Sigfox connectivity.",
+          "author_id": "78901",
+          "id": "17"
         },
         {
-            "name": "Arduino MKR WAN 1310",
-            "description": "A microcontroller board with LoRa connectivity and built-in crypto chip",
-            "price": "$39.90",
-            "imgUrl": "https://example.com/arduino_mkr_wan_1310.jpg"
+          "name": "Arduino MKR WAN 1310",
+          "imgUrl": "img/mkr-wan-1310.jpg",
+          "price": "39.95",
+          "description": "The Arduino MKR WAN 1310 is a powerful board that combines the functionality of the MKR Zero and LoRa connectivity.",
+          "author_id": "89012",
+          "id": "18"
         },
         {
-            "name": "Arduino MKR VIDOR WAN 1300",
-            "description": "A microcontroller board with LoRa connectivity, FPGA, and u-blox modem",
-            "price": "$99.00",
-            "imgUrl": "https://example.com/arduino_mkr_vidor_wan_1300.jpg"
+          "name": "Arduino MKR WiFi 1000",
+          "imgUrl": "img/mkr-wifi-1000.jpg",
+          "price": "34.95",
+          "description": "The Arduino MKR WiFi 1000 is a powerful board that combines the functionality of the Zero and Wi-Fi connectivity.",
+          "author_id": "90123",
+          "id": "19"
         },
         {
-            "name": "Arduino MKR FOX 1200",
-            "description": "A microcontroller board with Sigfox connectivity for low-power IoT",
-            "price": "$39.00",
-            "imgUrl": "https://example.com/arduino_mkr_fox_1200.jpg"
+          "name": "Arduino MKR GSM 1200",
+          "imgUrl": "img/mkr-gsm-1200.jpg",
+          "price": "49.95",
+          "description": "The Arduino MKR GSM 1200 is a powerful board that combines the functionality of the Zero and global GSM connectivity.",
+          "author_id": "01234",
+          "id": "20"
         }
-    ]
+      ]
 }
