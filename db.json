@@ -1,0 +1,124 @@
+{
+    "products": [
+        {
+            "name": "Arduino Uno",
+            "description": "A beginner-friendly microcontroller board",
+            "price": "$24.95",
+            "imgUrl": "https://example.com/arduino_uno.jpg"
+        },
+        {
+            "name": "Arduino Mega",
+            "description": "A powerful microcontroller board with more I/O pins",
+            "price": "$39.95",
+            "imgUrl": "https://example.com/arduino_mega.jpg"
+        },
+        {
+            "name": "Arduino Nano",
+            "description": "A small and compact microcontroller board",
+            "price": "$22.00",
+            "imgUrl": "https://example.com/arduino_nano.jpg"
+        },
+        {
+            "name": "Arduino Pro Mini",
+            "description": "A minimalistic microcontroller board for advanced users",
+            "price": "$9.95",
+            "imgUrl": "https://example.com/arduino_pro_mini.jpg"
+        },
+        {
+            "name": "Arduino Leonardo",
+            "description": "A microcontroller board with built-in USB communication",
+            "price": "$19.95",
+            "imgUrl": "https://example.com/arduino_leonardo.jpg"
+        },
+        {
+            "name": "Arduino Due",
+            "description": "A microcontroller board based on the ARM Cortex-M3 processor",
+            "price": "$34.99",
+            "imgUrl": "https://example.com/arduino_due.jpg"
+        },
+        {
+            "name": "Arduino MKR1000",
+            "description": "A microcontroller board with built-in WiFi connectivity",
+            "price": "$34.00",
+            "imgUrl": "https://example.com/arduino_mkr1000.jpg"
+        },
+        {
+            "name": "Arduino Nano 33 BLE",
+            "description": "A microcontroller board with Bluetooth Low Energy support",
+            "price": "$19.50",
+            "imgUrl": "https://example.com/arduino_nano33_ble.jpg"
+        },
+        {
+            "name": "Arduino Nano 33 IoT",
+            "description": "A microcontroller board with WiFi and Bluetooth connectivity",
+            "price": "$18.00",
+            "imgUrl": "https://example.com/arduino_nano33_iot.jpg"
+        },
+        {
+            "name": "Arduino MKR Zero",
+            "description": "A microcontroller board based on the SAMD21G18A processor",
+            "price": "$22.00",
+            "imgUrl": "https://example.com/arduino_mkr_zero.jpg"
+        },
+        {
+            "name": "Arduino MKR Vidor 4000",
+            "description": "A microcontroller board with an FPGA chip for enhanced functionality",
+            "price": "$59.90",
+            "imgUrl": "https://example.com/arduino_mkr_vidor_4000.jpg"
+        },
+        {
+            "name": "Arduino Nano Every",
+            "description": "A microcontroller board based on the ATmega4809 processor",
+            "price": "$9.90",
+            "imgUrl": "https://example.com/arduino_nano_every.jpg"
+        },
+        {
+            "name": "Arduino Nano 33 BLE Sense",
+            "description": "A microcontroller board with multiple built-in sensors",
+            "price": "$29.50",
+            "imgUrl": "https://example.com/arduino_nano33_ble_sense.jpg"
+        },
+        {
+            "name": "Arduino MKR WiFi 1010",
+            "description": "A microcontroller board with WiFi connectivity and low power consumption",
+            "price": "$34.00",
+            "imgUrl": "https://example.com/arduino_mkr_wifi_1010.jpg"
+        },
+        {
+            "name": "Arduino MKR GSM 1400",
+            "description": "A microcontroller board with GSM connectivity for IoT applications",
+            "price": "$69.00",
+            "imgUrl": "https://example.com/arduino_mkr_gsm_1400.jpg"
+        },
+        {
+            "name": "Arduino MKR NB 1500",
+            "description": "A microcontroller board with NB-IoT and LTE-M connectivity",
+            "price": "$69.00",
+            "imgUrl": "https://example.com/arduino_mkr_nb_1500.jpg"
+        },
+        {
+            "name": "Arduino MKR WAN 1300",
+            "description": "A microcontroller board with LoRa connectivity for long-range communication",
+            "price": "$39.90",
+            "imgUrl": "https://example.com/arduino_mkr_wan_1300.jpg"
+        },
+        {
+            "name": "Arduino MKR WAN 1310",
+            "description": "A microcontroller board with LoRa connectivity and built-in crypto chip",
+            "price": "$39.90",
+            "imgUrl": "https://example.com/arduino_mkr_wan_1310.jpg"
+        },
+        {
+            "name": "Arduino MKR VIDOR WAN 1300",
+            "description": "A microcontroller board with LoRa connectivity, FPGA, and u-blox modem",
+            "price": "$99.00",
+            "imgUrl": "https://example.com/arduino_mkr_vidor_wan_1300.jpg"
+        },
+        {
+            "name": "Arduino MKR FOX 1200",
+            "description": "A microcontroller board with Sigfox connectivity for low-power IoT",
+            "price": "$39.00",
+            "imgUrl": "https://example.com/arduino_mkr_fox_1200.jpg"
+        }
+    ]
+}
