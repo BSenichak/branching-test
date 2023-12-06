@@ -1,4 +1,5 @@
 const urlParams = new URLSearchParams(window.location.search);
+console.log(window.location)
 const id = urlParams.get('id');
 
 let profile = document.getElementById('profile');

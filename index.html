@@ -7,6 +7,8 @@
         <title>RoboShop</title>
         <link rel="stylesheet" href="style.css" />
         <script src="script.js" defer></script>
+        <script src="../cart.js" defer></script>
+
         <link
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.css"
@@ -18,7 +20,10 @@
         <header>
             <h1><a href="index.html">RoboShop</a></h1>
             <div id="cart">
-                <i class="fa-solid fa-cart-shopping" id="cart"></i>
+                <i class="fa-solid fa-cart-shopping cartButton"></i>
+                <div id="cart-products" class="hide">
+                    Cart is empty
+                </div>
             </div>
         </header>
         <main>
