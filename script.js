@@ -1,12 +1,16 @@
 let productsGrid = document.getElementById("products-grid");
 let productsArray = [];
 let xhr = new XMLHttpRequest();
-let url = "https://my-json-server.typicode.com/BSenichak/branching-test/db";
+let url = "https://market-7581.restdb.io/rest/products";
+let apikey = "6579ac30993e5f4d3fd25229"
 
 xhr.open("GET", url);
+xhr.setRequestHeader("content-type", "application/json");
+xhr.setRequestHeader("x-apikey", apikey);
+xhr.setRequestHeader("cache-control", "no-cache");
 xhr.responseType = "json";
 xhr.onload = function () {
-    productsArray = xhr.response.products;
+    productsArray = xhr.response;
     productsGrid.innerHTML = null;
     productsArray.forEach((p) => {
         productsArray.push(p);
